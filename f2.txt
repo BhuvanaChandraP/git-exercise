@@ -4,3 +4,4 @@ are worthy of serious study. The following is what we believe to be a compelling
 list of potential benefits of studying concepts of programming languages:
 Increased capacity to express ideas. It is widely believed that the depth at which 
 people can think is influenced by the expressive power of the language in 
+
